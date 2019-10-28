@@ -1,0 +1,5 @@
+export var myheader = () => import('./header.vue')
+export var left = () => import('./left.vue')
+export var echartscolumn = () => import('./echarts/column.vue')
+export var echartsline = () => import('./echarts/line.vue')
+export var echartspie = () => import('./echarts/pie.vue')
